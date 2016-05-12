@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "stylelint-declaration-use-variable"
+  ],
+  "rules": {
+    "declaration-use-variable": [ "/color/" ]
+  }
+}
